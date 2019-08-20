@@ -4,3 +4,4 @@
 # 爱你！
 ##                                爱你的小潘～
 
+![image](https://raw.githubusercontent.com/sacfrace/Happy-Birthday/master/aini.jpg)
